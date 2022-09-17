@@ -33,7 +33,7 @@ class _QuickVideoState extends State<QuickVideo> {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: _controller.value.isInitialized
+      child: _controller.value.initialized
           ? AspectRatio(
               aspectRatio: 1 / 1,
               child: CachedVideoPlayer(_controller),

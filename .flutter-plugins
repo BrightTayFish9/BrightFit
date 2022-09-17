@@ -1,5 +1,5 @@
 # This is a generated file; do not edit or check into version control.
-cached_video_player=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/cached_video_player-2.0.3/
+cached_video_player=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/cached_video_player-1.0.3/
 camera=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.10.0+1/
 camera_android=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/camera_android-0.10.0+2/
 camera_avfoundation=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/camera_avfoundation-0.9.8+5/
@@ -20,7 +20,7 @@ url_launcher_linux=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dar
 url_launcher_macos=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-3.0.1/
 url_launcher_web=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.13/
 url_launcher_windows=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-3.0.1/
-video_player=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-0.10.3+3/
-video_player_web=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_web-2.0.12/
+video_player=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-1.0.1/
+video_player_web=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_web-0.1.4+1/
 video_thumbnail=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/video_thumbnail-0.2.5+1/
 wakelock=/Users/austinduran/brighton/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.1.4+2/

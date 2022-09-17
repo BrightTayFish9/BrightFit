@@ -18,7 +18,7 @@ public final class GeneratedPluginRegistrant {
   public static void registerWith(@NonNull FlutterEngine flutterEngine) {
     ShimPluginRegistry shimPluginRegistry = new ShimPluginRegistry(flutterEngine);
     try {
-      flutterEngine.getPlugins().add(new com.lazyarts.vikram.cached_video_player.CachedVideoPlayerPlugin());
+      com.lazyarts.vikram.cached_video_player.CachedVideoPlayerPlugin.registerWith(shimPluginRegistry.registrarFor("com.lazyarts.vikram.cached_video_player.CachedVideoPlayerPlugin"));
     } catch(Exception e) {
       Log.e(TAG, "Error registering plugin cached_video_player, com.lazyarts.vikram.cached_video_player.CachedVideoPlayerPlugin", e);
     }
